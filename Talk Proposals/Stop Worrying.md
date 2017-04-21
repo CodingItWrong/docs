@@ -10,12 +10,12 @@ New programming languages and frameworks are great, but they don't address the f
 
 I'd like to tell you the story of how I got on the ride — how I made it through a series of worries one at a time. Each worry came from a real need, and identifying that need helped me find an agile development process to meet it. Another worry would crop up afterward, but I just repeated the process of following the worry again. Now my day-to-day development involves a lot less stress and a lot more fun!
 
-Here's the series of worries I went through:
+Here's the series of worries I went through, and the need that underlies each:
 
-- **"Will we get the code done in time?"** (The need here is for predictability.)
-- **"Will I break something?"** (The need is reliability.)
-- **"Am I wasting time writing tests?"** (Testability.)
-- **"Can my code handle future changes?"** (Flexibility.)
+- **"Will we get the code done in time?"** — Predictability
+- **"Will I break something?"** — Reliability
+- **"Why is it so hard to write tests?"** — Testability
+- **"Can my code handle future changes?"** — Maintainability
 
 For each of these worries, you'll learn:
 
