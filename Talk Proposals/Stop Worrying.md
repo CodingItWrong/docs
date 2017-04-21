@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Is your life as a developer characterized by worry? Mine is. But we don't have to be stuck there, because worry can be a pointer to what we need to change. At this talk we'll discuss what you can do about your stress over schedule slips, defects, wasted testing effort, or building the wrong thing. You'll learn to apply agile development practices that will help turn your fear into confidence.
+Is your life as a developer characterized by worry? Mine is. But we don't have to be stuck there, because worry can be a pointer to what we need to change. At this talk we'll discuss what you can do about your stress over schedule slips, defects, difficult-to-write tests, or building the wrong thing. You'll learn to apply agile development practices that will help turn your fear into confidence.
 
 ## Description
 
