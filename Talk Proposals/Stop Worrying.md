@@ -6,9 +6,9 @@ Is your life as a developer characterized by worry? Mine is. But we don't have t
 
 ## Description
 
-New programming languages and frameworks are great, but they don't address the fundamental problems we tend to experience on every project: long hours, late releases, and unhappy customers. We're told that agile development practices help with these problems, but getting started can be a catch-22. For example, agile suggests you should test your code, but to do so it has to be well-designed, but to change the design it needs to be tested. How do you get on the ride?
+New programming languages and frameworks are great, but they don't address the fundamental problems we tend to experience on every project: long hours, late releases, and unhappy customers. We're told that agile development practices help with these problems, but getting started can be a catch-22. For example, agile suggests you should test your code, but to do so it has to be well-designed, but to change the design it needs to be tested. How can you get started?
 
-I'd like to tell you the story of how I got on the ride — how I made it through a series of worries one at a time. Each worry came from a real need, and identifying that need helped me find an agile development process to meet it. Another worry would crop up afterward, but I just repeated the process of following the worry again. Now my day-to-day development involves a lot less stress and a lot more fun!
+I'd like to tell you the story of how I got started — how I made it through a series of worries one at a time. Each worry came from a real need, and identifying that need helped me find an agile development process to meet it. Another worry would crop up afterward, but I just repeated the process of following the worry again. Now my day-to-day development involves a lot less stress and a lot more fun!
 
 Here's the series of worries I went through, and the need that underlies each:
 
@@ -19,12 +19,12 @@ Here's the series of worries I went through, and the need that underlies each:
 
 For each of these worries, you'll learn:
 
-- Why the need underlying the worry is important to meet.
+- What need is the underlying cause of the worry, and why it's important to get that need met.
 - Which agile development practice addresses that need.
 - What that development practice looks like in a simple scenario.
-- Where you can go to dig more deeply into learning that development practice.
+- Articles and books you can read to learn that development practice.
 
-You'll walk away being able to identify what your biggest need is right now and what steps you can take to begin to resolve it.
+You'll walk away being able to identify which of the above development needs is your biggest right now and what steps you can take to begin to resolve it.
 
 This session won't remove all your worry: it isn't counseling! But these practices are likely to make a significant change in your quality of developer life. You may even find that you fall in love with development all over again.
 
